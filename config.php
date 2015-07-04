@@ -10,7 +10,7 @@ define('DB_HOST','localhost');
 define('DB_USER','hybrid-admin');
 
 /*** mysql password ***/
-define('DB_PASSWORD','Hybrid-@dmin1!');
+define('DB_PASSWORD','');
 
 /*** mysql database name ***/
 define('DB_NAME','tracker-hybrid');
